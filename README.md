@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @AdibBENHLEL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AdibBENHLEL/AdibBENHLEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in the science of computers and coding.
+- 🌱 I’m currently learning various programming languages and exploring different aspects of computer science.
+- 💞️ I’m looking to collaborate on projects related to software development and innovative tech solutions.
+- 📫 How to reach me: [adibbenhlel30@gmail.com]
