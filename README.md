@@ -1,13 +1,9 @@
 <h1 align="center"><b>Hey , I'm Adib BEN HLEL </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
+👋 Hi, I’m @AdibBENHLEL a Computer science student at (ISIMM) in Tunisia 💻 I'm 21 years old , Content Creator on [Youtube](https://www.youtube.com/channel/UCbEgC0abe0HDbKFOjCC8sig).
 
-I'm Adib BEN HLEL a Computer science student at (ISIMM) in Tunisia 💻 , I'm 21 years old and Content Creator on [Youtube](https://www.youtube.com/channel/UCbEgC0abe0HDbKFOjCC8sig).
-I am completely passionate about frontend backend development .
-
-👋 Hi, I’m @AdibBENHLEL
-
-👀 I’m interested in the science of computers and coding.
+👀 I am completely passionate about frontend backend development .
 
 🌱 I’m currently learning various programming languages and exploring different aspects of computer science.
 
