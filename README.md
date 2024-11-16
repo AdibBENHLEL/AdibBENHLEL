@@ -2,21 +2,21 @@
 
 
 
-<img title="My Avatar" align="left" src="assets/images/Aziz.png"  width="500px" alt="hi" >
-
-<!--  About me -->
-<!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> **About me**-->
-**About me**
-
 I'm Adib BEN HLEL a Computer science student at (ISIMM) in Tunisia 💻 , I'm 21 years old and Content Creator on [Youtube](https://www.youtube.com/channel/UCbEgC0abe0HDbKFOjCC8sig).
 I am completely passionate about frontend backend development .
 
 👋 Hi, I’m @AdibBENHLEL
+
 👀 I’m interested in the science of computers and coding.
+
 🌱 I’m currently learning various programming languages and exploring different aspects of computer science.
+
 💞️ I’m looking to collaborate on projects related to software development and innovative tech solutions.
+
 📫 How to reach me: [benhelal.adib@isimm.u-monastir.tn]
+
 linkedin : https://www.linkedin.com/in/adib-ben-hlel-6553842a0/
+
 I developed two websites:
 
 -Using WordPress: https://exploradjerba.com/
